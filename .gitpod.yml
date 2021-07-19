@@ -7,3 +7,8 @@ tasks:
 ports:
   - port: 3000
     onOpen: open-preview
+
+# workspace’s git configuration as key-value pairs.
+gitConfig:
+  user.name: williamn
+  user.email: 27722+williamn@users.noreply.github.com
